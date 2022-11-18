@@ -32,12 +32,13 @@ Lastly, will all of this data a line chart was created to see the percentage of 
 
 ### Challenges and Difficulties Encountered
 
-launch date - shows data from all different years and each month. Filter it for months to better analyze trends. 
+When the pivot table showing theater outcomes versus launch date was first created, it was showing each month and year separately. It was determined it would be best to look at this data by month only as you could filter for all years or a specific year. By setting the pivot table to only show month, we can more clearly analyze the trends. 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-- What can you conclude about the Outcomes based on Goals?
-- What are some limitations of this dataset?
-- What are some other possible tables and/or graphs that we could create?
+- Theater campaigns have the highest chance of being successful if they are launched in May.
+- There are more successful theater campaigns launched, no matter the month, than there are failed or canceled campaigns. 
+- Theater campaigns are most successful when the fundraising goal is less than $1,000.
+- Limitations of the data set include not knowing where the campaigns are taking place and if that has any correlation. Other limitations could include not knowing if there are other events or reasons that contribute to someone not wanting to back a campaign. 
+- Further tables and graphs could be used to show if the number of backers and/or donation amount is realted to the success of a campaign. 
 
