@@ -22,23 +22,23 @@ It is not necessary to show live campaigns in our data as we do not yet know the
 
 ### Analysis of Outcomes Based on Goals
 
-Next, we want to determine what the outcomes of theater campaigns were based on the fundraising goals they had set. The data we have has many different fundraising goals. First, we determined that we would look at the goals by 12 different dollar amount ranges. From the number that were successful, number that failed and number that were canceled based on the fundraising goal. 
+Next, we want to determine what the outcomes of theater campaigns were based on the fundraising goals they had set. The data we have has many different fundraising goals. First, we determined that we would look at the goals by 12 different dollar amount ranges. Then we determined the number that were successful, number that failed and number that were canceled based on the fundraising goal. 
 
 Next, we totaled up the number of successful, failed and canceled projects in each dollar amount goal. This allowed us to determine the percentage of campaigns that were successful, failed and canceled. 
 
-Lastly, will all of this data a line chart was created to see the percentage of each outcome in correlation to the amount of the fundraising goal. 
+Lastly, with all of this data a line chart was created to see the percentage of each outcome in correlation to the amount of the fundraising goal. 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/117782103/202775694-8095b363-8ad4-4b2c-bc5c-d671cabd99cf.png)
 
 ### Challenges and Difficulties Encountered
 
-When the pivot table showing theater outcomes versus launch date was first created, it was showing each month and year separately. It was determined it would be best to look at this data by month only as you could filter for all years or a specific year. By setting the pivot table to only show month, we can more clearly analyze the trends. 
+When the pivot table showing theater outcomes versus launch date was first created, it was showing each month and year separately. It was determined it would be best to look at this data by month only, as you could filter for all years or a specific year if warranted. By setting the pivot table to only show month, we can more clearly analyze the trends. 
 
 ## Results
 
 - Theater campaigns have the highest chance of being successful if they are launched in May.
 - There are more successful theater campaigns launched, no matter the month, than there are failed or canceled campaigns. 
 - Theater campaigns are most successful when the fundraising goal is less than $1,000.
-- Limitations of the data set include not knowing where the campaigns are taking place and if that has any correlation. Other limitations could include not knowing if there are other events or reasons that contribute to someone not wanting to back a campaign. 
-- Further tables and graphs could be used to show if the number of backers and/or donation amount is realted to the success of a campaign. 
+- Limitations of the data set include not knowing where the campaigns are taking place and if that has any correlation on the outcome. Other limitations could include not knowing if there are other events or reasons that contribute to someone not wanting to back a campaign. 
+- Further tables and graphs could be used to show if the number of backers and/or donation amount is related to the success of a campaign. 
 
